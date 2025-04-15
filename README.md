@@ -4,7 +4,7 @@ The following is a repository of the materials and files of the talk on "Macroec
 
 To cite the repository:
 
-*Cayton, PJA (2025). GARCH-MIDAS-PARK-R Methodology in R. https://github.com/pacayton/GARCH_MIDAS_PARK-R/tree/main. Accessed last <>.*
+*Cayton, PJA (2025). GARCH-MIDAS-PARK-R Methodology in R. https://github.com/pacayton/GARCH_MIDAS_PARK-R/tree/main. Accessed last <date>.*
 
 To cite the paper:
 
