@@ -1,0 +1,1 @@
+# GARCH_MIDAS_PARK-R
